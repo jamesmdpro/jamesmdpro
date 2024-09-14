@@ -18,7 +18,7 @@ Siempre en busca de nuevas oportunidades para aprender y colaborar, estoy emocio
 
 
 ## Contribution Snake 
-![Contribution Snake](https://github.com/jamesmdpro/jamesmdpro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jamesmdpro/jamesmdpro/blob/output/github-contribution-grid-snake.gif)
 
 ## My Tech Stack and Tools
 
