@@ -79,7 +79,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Siempre estoy a
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=jamesmdpro&show_icons=true&theme=algolia)              | 
 | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesmdpro&theme=algolia)                    | 
     
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jamesmdpro&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmdpro&langs_count=8&theme=algolia)
