@@ -1,5 +1,7 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <h1 align="center">
-James MD 
+Hola, soy James Marin 
+
 
 ## Sobre Mí
 Soy un apasionado de la tecnología y el desarrollo de software. Siempre estoy aprendiendo y buscando nuevos desafíos.
@@ -21,7 +23,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Siempre estoy a
 
 <p>
   
-
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
@@ -40,7 +42,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Siempre estoy a
 ![aframe-logo_48x48](https://user-images.githubusercontent.com/76852813/172721192-a712983a-47d4-41a5-a1ed-abf4113cff93.png)
 ![icons8-bootstrap](https://user-images.githubusercontent.com/76852813/172721798-883b2b27-ef7b-42d4-a492-6c6cb6cb4ffe.svg)
 ![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
-<img src="./icons/Laravel-light.svg" width="48"> 
+<img src="./icons/Laravel-Light.svg" width="48"> 
 
 ### Software
 
@@ -77,7 +79,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Siempre estoy a
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=jamesmdpro&show_icons=true&theme=algolia)              | 
 | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesmdpro&theme=algolia)                    | 
     
-
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=jamesmdpro&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmdpro&langs_count=8&theme=algolia)
