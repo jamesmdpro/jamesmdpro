@@ -10,7 +10,7 @@ Mi pasión por la tecnología me ha llevado a formarme en desarrollo de software
 
 Siempre en busca de nuevas oportunidades para aprender y colaborar, estoy emocionado por conectar con otros profesionales y explorar ideas innovadoras. 🚀
 
-## Proyectos Destacados
+## Proyectos Destacado
 - [Ecosistema Integral de Transporte y Logística] PRIVADO: BActualmente, estoy desarrollando un innovador ecosistema que integra todos los elementos cruciales de la cadena de valor en el sector de transporte y logística. Este proyecto abarca desde la producción y distribución hasta el picking, packing, fulfillment, dropshipping, última milla y transporte internacional. Aunque el código es privado, el objetivo es optimizar y conectar estos procesos para mejorar la eficiencia y la transparencia en el sector.
 
 ## Conéctame
