@@ -17,8 +17,10 @@ Siempre en busca de nuevas oportunidades para aprender y colaborar, estoy emocio
 - [LinkedIn](https://www.linkedin.com/in/jamesmdpro/)
 
 
+<!-- 
 ## Contribution Snake 
 ![snake gif](https://github.com/jamesmdpro/jamesmdpro/blob/output/github-contribution-grid-snake.gif)
+-->
 
 ## My Tech Stack and Tools
 
