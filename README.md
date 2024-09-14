@@ -4,11 +4,14 @@ Hola, soy James Marin
 
 
 ## Sobre Mí
-Soy un apasionado de la tecnología y el desarrollo de software. Siempre estoy aprendiendo y buscando nuevos desafíos.
+¡Hola! 👋 Soy James, un profesional con una sólida trayectoria en gestión de proyectos y un creciente enfoque en el desarrollo de software. Con más de 10 años en la industria de eventos, donde lideré equipos como Productor Senior, actualmente dirijo a un equipo de 6 ingenieros en el desarrollo de soluciones avanzadas para transporte y logística, incluyendo dropshipping.
+
+Mi pasión por la tecnología me ha llevado a formarme en desarrollo de software, trabajando con React y Laravel, y en diseño de arquitecturas. Mi experiencia en gestión de proyectos complementa mi habilidad técnica, permitiéndome abordar desafíos complejos con una perspectiva integral.
+
+Siempre en busca de nuevas oportunidades para aprender y colaborar, estoy emocionado por conectar con otros profesionales y explorar ideas innovadoras. 🚀
 
 ## Proyectos Destacados
-- [Nombre del Proyecto 1](enlace-al-proyecto): Breve descripción del proyecto.
-- [Nombre del Proyecto 2](enlace-al-proyecto): Breve descripción del proyecto.
+- [Ecosistema Integral de Transporte y Logística] PRIVADO: BActualmente, estoy desarrollando un innovador ecosistema que integra todos los elementos cruciales de la cadena de valor en el sector de transporte y logística. Este proyecto abarca desde la producción y distribución hasta el picking, packing, fulfillment, dropshipping, última milla y transporte internacional. Aunque el código es privado, el objetivo es optimizar y conectar estos procesos para mejorar la eficiencia y la transparencia en el sector.
 
 ## Conéctame
 - [LinkedIn](https://www.linkedin.com/in/jamesmdpro/)
